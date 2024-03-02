@@ -32,8 +32,16 @@ docker-compose up --build -d
 
 
 ### Step 3: *  Download the Jar File and move the jar file into glue_jupyter_workspace folder
+
+
 *  https://github.com/apache/incubator-xtable/packages/1986830
+
+
+
 ![image](https://github.com/soumilshah1995/aws-hudi-delta-iceberg-interoperability/assets/39345855/7cbad682-1817-4e8f-a44d-f05adc71897a)
+
+
+
 
 
 ```
