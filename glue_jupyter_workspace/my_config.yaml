@@ -1,0 +1,8 @@
+sourceFormat: HUDI
+targetFormats:
+  - DELTA
+datasets:
+  -
+    tableBasePath: s3://soumil-dev-bucket-1995/silver/table_name=customers/
+    tableName: customers
+
